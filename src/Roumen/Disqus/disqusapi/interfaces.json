@@ -559,7 +559,7 @@
     },
     "details": {
       "required": [
-        "thread"
+        "thread:ident"
       ],
       "method": "GET",
       "formats": [
